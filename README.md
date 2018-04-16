@@ -3,9 +3,10 @@
 Note: This is not an official product.
 
 Sourced from https://github.com/google/cordova-plugin-browsertab
-Couple of changes:
+Few changes:
 This repo can be directly used to add plugin instead of making a local copy.
 Title is shown in browser.
+CHROME_CUSTOM_TAB_RGB value is exported into strings.xml instead of browsertab.xml. Hence browsertab.xml file is omitted.
 
 ## About
 
