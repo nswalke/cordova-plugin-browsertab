@@ -61,7 +61,9 @@ cordova plugin add cordova-plugin-browsertab --variable CUSTOM_TAB_COLOR_RGB="#f
 
 List of available parameters:
 
-* **CUSTOM_TAB_COLOR_RGB** - Customize custom tab background color. Pass value as a RGB string `#RRGGBB`. Add this in res/values/browsertab.xml: <string name="CUSTOM_TAB_COLOR_RGB">#RRGGBB</string>
+* **CUSTOM_TAB_COLOR_RGB** - Customize custom tab background color. Pass value as a RGB string `#RRGGBB`.
+Add string resource in res/values/browsertab.xml: string name="CUSTOM_TAB_COLOR_RGB" #RRGGBB
+
                             Supported by Android only at the moment.
 
 ## Building
