@@ -30,7 +30,6 @@
         <framework src="com.android.support:customtabs:23.3.0"/>
         <framework src="src/android/BrowserTab.gradle" custom="true" type="gradleReference"/>
   
-        <source-file src="src/android/res/browsertab.xml" target-dir="res/values" />
         <config-file target="./res/values/strings.xml" parent="/resources">
           <string name="CUSTOM_TAB_COLOR_RGB">$CUSTOM_TAB_COLOR_RGB</string>
         </config-file>
