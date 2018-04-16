@@ -2,6 +2,11 @@
 
 Note: This is not an official product.
 
+Sourced from https://github.com/google/cordova-plugin-browsertab
+Couple of changes:
+This repo can be directly used to add plugin instead of making a local copy.
+Title is shown in browser.
+
 ## About
 
 This plugin provides an interface to in-app browser tabs that exist on some
